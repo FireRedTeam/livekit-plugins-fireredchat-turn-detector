@@ -25,7 +25,7 @@ from .version import __version__
 
 __all__ = ["base", "__version__"]
 
-HG_MODEL = "FireRedTeam/fireredchat_turn_detector"
+HG_MODEL = "FireRedTeam/FireRedChat-turn-detector"
 MODEL_REVISION = "0.0.1"
 
 class EOUPlugin(Plugin):
